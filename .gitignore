@@ -1,0 +1,17 @@
+*/.gitignore
+*/.metadata
+*/analysis_options.yaml
+*/pubspec.lock
+*/android/*
+*/.dart_tool/*
+*/.idea/*
+*/.packages
+*/.pub-cache/*
+*/.vscode/*
+*/ios/*
+*/linux/*
+*/macos/*
+*/web/*
+*/windows/*
+*/.flutter-plugins
+*/.flutter-plugins-dependencies
