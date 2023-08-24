@@ -7,7 +7,7 @@
 */.idea/*
 */.packages
 */.pub-cache/*
-*/.vscode/*
+**/.vscode/*
 */ios/*
 */linux/*
 */macos/*
